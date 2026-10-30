@@ -9,7 +9,7 @@
       "name": "riff-mcp",
       "source": "./",
       "description": "Architecture-whiteboard MCP server (draw_repo, explain_box): BYOLLM, free, local-first. Requires your own AI key.",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }
