@@ -1,0 +1,17 @@
+{
+  "name": "riff-mcp",
+  "displayName": "Riff MCP",
+  "description": "A free, BYOLLM architecture-whiteboard MCP server: draw_repo statically crawls a repo and opens a local, clickable canvas; explain_box cites every claim. Requires your own AI key.",
+  "version": "0.1.0",
+  "author": {
+    "name": "knaig"
+  },
+  "license": "UNLICENSED",
+  "keywords": ["mcp", "architecture", "diagram"],
+  "mcpServers": {
+    "riff-mcp": {
+      "command": "npx",
+      "args": ["-y", "riff-mcp", "mcp"]
+    }
+  }
+}

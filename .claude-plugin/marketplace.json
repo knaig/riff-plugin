@@ -7,10 +7,7 @@
   "plugins": [
     {
       "name": "riff-mcp",
-      "source": {
-        "source": "github",
-        "repo": "knaig/riff"
-      },
+      "source": "./",
       "description": "Architecture-whiteboard MCP server (draw_repo, explain_box): BYOLLM, free, local-first. Requires your own AI key.",
       "version": "0.1.0"
     }
